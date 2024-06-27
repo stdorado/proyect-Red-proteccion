@@ -1,4 +1,4 @@
-import User from "../../Models/user.model";
+import User from "../Models/user.model.js";
 
 class userManager {
   async findAll() {

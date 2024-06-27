@@ -23,3 +23,328 @@ info: Contraseña hasheada
 info: Contraseña hasheada
 info: $2b$10$.BDr9F17Ri7yDtMBwLWste1j7vlxceQL6rWkg5VgqnLMv4bw9x0TS
 info: Contraseña hasheada
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Usuarios creado : Usuario creado con exito {"success":true,"user":{"Fecha_unio":"2024-06-27T22:55:55.119Z","Role":"user","Ultima_conexion":null,"__v":0,"_id":"667dedfba104ce4460120e23"}}
+info: Usuarios creado : Usuario creado con exito {"success":true,"user":{"Apellido":"Dorado","Contraseña":"Loshermanos13","Correo_Electronico":"Doradosantinotomas@gmail.com","Edad":21,"Fecha_unio":"2024-06-27T22:58:04.076Z","Nombre":"Santino","Role":"user","Ultima_conexion":null,"__v":0,"_id":"667dee7ca104ce4460120e25"}}
+info: Usuarios traidos : Usuarios traidos con exito {"success":true,"user":[{"Fecha_unio":"2024-06-27T22:55:55.119Z","Role":"user","Ultima_conexion":null,"__v":0,"_id":"667dedfba104ce4460120e23"},{"Apellido":"Dorado","Contraseña":"Loshermanos13","Correo_Electronico":"Doradosantinotomas@gmail.com","Edad":21,"Fecha_unio":"2024-06-27T22:58:04.076Z","Nombre":"Santino","Role":"user","Ultima_conexion":null,"__v":0,"_id":"667dee7ca104ce4460120e25"}]}
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Usuarios Obtenido : Usuario Traido con exito {"success":true,"user":{"Apellido":"Dorado","Contraseña":"Loshermanos13","Correo_Electronico":"Doradosantinotomas@gmail.com","Edad":21,"Fecha_unio":"2024-06-27T22:58:04.076Z","Nombre":"Santino","Role":"user","Ultima_conexion":null,"__v":0,"_id":"667dee7ca104ce4460120e25"}}
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Usuarios actualizado : {"error":"Cast to ObjectId failed for value \"{\n  Nombre: 'Santino',\n  Apellido: 'Dorado',\n  'Contraseña': 'Loshermanos15',\n  Correo_Electronico: 'Doradosantinotomas@gmail.com',\n  Edad: 21\n}\" (type Object) at path \"_id\" for model \"Usuarios\"","success":false}
+info: Usuarios actualizado : {"error":"Cast to ObjectId failed for value \"{\n  Nombre: 'Santino',\n  Apellido: 'Dorado',\n  'Contraseña': 'Loshermanos15',\n  Correo_Electronico: 'Doradosantinotomas@gmail.com',\n  Edad: 22\n}\" (type Object) at path \"_id\" for model \"Usuarios\"","success":false}
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Usuarios actualizado : Usuario Actualizado con exito {"success":true,"user":{"Apellido":"Dorado","Contraseña":"Loshermanos15","Correo_Electronico":"Doradosantinotomas@gmail.com","Edad":22,"Fecha_unio":"2024-06-27T22:58:04.076Z","Nombre":"Santino","Role":"user","Ultima_conexion":null,"__v":0,"_id":"667dee7ca104ce4460120e25"}}
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Usuarios actualizado : {"error":"Cast to ObjectId failed for value \"{\n  Nombre: 'Santino',\n  Apellido: 'Dorado',\n  'Contraseña': 'Loshermanos15',\n  Correo_Electronico: 'Doradosantinotomas@gmail.com',\n  Edad: 23\n}\" (type Object) at path \"_id\" for model \"Usuarios\"","success":false}
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Usuarios actualizado : Usuario Actualizado con exito {"success":true,"user":{"Apellido":"Dorado","Contraseña":"Loshermanos15","Correo_Electronico":"Doradosantinotomas@gmail.com","Edad":23,"Fecha_unio":"2024-06-27T22:58:04.076Z","Nombre":"Santino","Role":"user","Ultima_conexion":null,"__v":0,"_id":"667dee7ca104ce4460120e25"}}
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Usuario Eliminado : Usuario Eliminado con exito {"success":true,"user":{"Fecha_unio":"2024-06-27T22:55:55.119Z","Role":"user","Ultima_conexion":null,"__v":0,"_id":"667dedfba104ce4460120e23"}}
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
