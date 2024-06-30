@@ -348,3 +348,435 @@ info: Server on port 5000
 info: Server on port 5000
 info: Data Base Connection
 info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Contraseña hasheada
+info: Usuarios creado : Usuario creado con exito {"success":true,"user":{"Apellido":"COM-Defensa","Contraseña":"$2b$10$.jCw1b2vgGO0KffjAtYNbeNdgfgV/NdAa8a89mqXHee/xEESwAkBi","Correo_Electronico":"adminCom@gmail.com","Edad":99,"Fecha_unio":"2024-06-28T21:32:33.616Z","Nombre":"Admin","Role":"admin","Ultima_conexion":null,"__v":0,"_id":"667f2bf1127bb6008e3ccfd8"}}
+error: Error:
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+error: Error en el manager , especifico en la password
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+error: Error en el manager , especifico en la password
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+error: Error en el manager , especifico en la password
+error: Error:
+error: Error en el manager , especifico en la password
+error: Error:
+error: Error en el manager , especifico en la password
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+error: Error en el manager , especifico en la password
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+error: Error en el manager , especifico en la password
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+error: Error en el manager , especifico en la password
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+error: Error en el manager , especifico en la password
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+error: Error en el manager , especifico en la password
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+error: Error en el manager , especifico en la password
+info: Server on port 5000
+info: Data Base Connection
+error: Error:
+error: Error en el manager , especifico en la password
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+error: Contraseña ingresada o almacenada no está definida
+error: Contraseña ingresada o almacenada no está definida
+info: Server on port 5000
+info: Data Base Connection
+error: Contraseña ingresada o almacenada no está definida
+error: Usuario no encontrado con el email proporcionado
+error: Usuario no encontrado con el email proporcionado
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+error: Error en el proceso de login bcrypt is not defined {"stack":"ReferenceError: bcrypt is not defined\n    at sessionManager.login (file:///C:/Users/54224/OneDrive/Escritorio/Red-Municipal/Back-COM/src/DaoS/Managers/session.manager.js:23:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async sessionService.login (file:///C:/Users/54224/OneDrive/Escritorio/Red-Municipal/Back-COM/src/Service/session.service.js:8:26)\n    at async LoginControllerSession (file:///C:/Users/54224/OneDrive/Escritorio/Red-Municipal/Back-COM/src/Controllers/session.controller.js:6:30)"}
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+error: Error en el manager de inicio de sesión: bcrypt is not defined {"stack":"ReferenceError: bcrypt is not defined\n    at sessionManager.login (file:///C:/Users/54224/OneDrive/Escritorio/Red-Municipal/Back-COM/src/DaoS/Managers/session.manager.js:23:35)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async sessionService.login (file:///C:/Users/54224/OneDrive/Escritorio/Red-Municipal/Back-COM/src/Service/session.service.js:8:26)\n    at async LoginControllerSession (file:///C:/Users/54224/OneDrive/Escritorio/Red-Municipal/Back-COM/src/Controllers/session.controller.js:6:33)"}
+info: Server on port 5000
+info: Data Base Connection
+info: Contraseña hasheada
+info: Usuarios creado : Usuario creado con exito {"success":true,"user":{"Apellido":"Tester","Contraseña":"$2b$10$GaaA4pKnOXrvOEDfThxtQ.ySbtSkNivOPeRZTG6V29IzKK/b7zGb2","Correo_Electronico":"tester@gmail.com","Edad":19,"Fecha_unio":"2024-06-29T02:34:53.610Z","Nombre":"Usuario-Testter","Role":"user","Ultima_conexion":null,"__v":0,"_id":"667f72cdbffcc11689b311e8"}}
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Contraseña hasheada
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection
+info: Server on port 5000
+info: Data Base Connection

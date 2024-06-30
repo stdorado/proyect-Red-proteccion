@@ -1,4 +1,5 @@
 import User from "../Models/user.model.js";
+import { EncriptarPassword } from "../../Utils/Bcrypt.js";
 
 class userManager {
   async findAll() {
@@ -24,6 +25,9 @@ class userManager {
   }
   async createOne(data) {
     try {
+      if(data.Contraseña){
+        data.Contraseña = await EncriptarPassword(data.Contraseña)
+      }
       return User.create(data);
     } catch (error) {
       throw error;
@@ -31,6 +35,9 @@ class userManager {
   }
   async updateOne(id, data) {
     try {
+      if(data.Contraseña){
+        data.Contraseña = await EncriptarPassword(data.Contraseña)
+      }
       return User.findByIdAndUpdate(id, data, { new: true });
     } catch (error) {
       throw error;
@@ -45,7 +52,7 @@ class userManager {
   }
   async getUserByEmail(email) {
     try {
-      return User.findOne({ email });
+      return User.findOne({ Correo_Electronico : email });
     } catch (error) {
       throw error;
     }
